@@ -1,2 +1,2 @@
 # chanjunren.github.io
-Portfolio website for myself :D
+Portfolio Website (Work In Progress)
